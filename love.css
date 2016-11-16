@@ -1,0 +1,37 @@
+body {
+	font-size: 1.5em;
+	text-align: center;
+	font-family: sans-serif;
+	background-color: #2c3e50;
+	color:white;
+}
+
+button {
+	background-color: #2c3e50;
+	color:white;
+	border-radius: 0.2em;
+	margin: 0.5em;
+	font-size: 2em;
+	padding:0.5em;
+}
+
+button:focus {
+	outline:0;
+}
+
+input {
+	font-size: 2em;
+	padding:0.5em;
+	width:70%;
+	border-radius: 0.2em;
+}
+
+#txtMessages {
+	font-family: serif;
+	margin-top: 1em;
+	font-size: 2em;
+}
+
+meter {
+	width: 70%;
+}
